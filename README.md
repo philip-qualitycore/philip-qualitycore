@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I’m Philip
 
-<!--
-**philip-qualitycore/philip-qualitycore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and run platforms for small SaaS teams, so their developers can spend their time on the product instead of servers and pipelines.
 
-Here are some ideas to get you started:
+**What I work with**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Platforms:** Docker Compose for simple setups, K3s and Kubernetes when it's time for a real cluster
+- **Delivery:** CI/CD pipelines and GitOps with ArgoCD, where everything in production mirrors what's in git
+- **Observability:** Prometheus, Grafana and alerts that reach the right person in time
+- **Quality:** test automation from API to end-to-end, which is where I started
+
+**How I build**
+
+Everything as code, in the client's own repos, on ordinary servers with any cloud or on-prem. No lock-in, and any experienced engineer can take over after me.
+
+Most of my work lives in private client repositories.
+
+[qualitycore.se](https://qualitycore.se)
